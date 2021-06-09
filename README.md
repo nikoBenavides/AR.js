@@ -1,7 +1,7 @@
 # AR.js
 * Proyecto de Realidad Aumentada para la clase de Programación V
 # Enlace para probar el proyecto con realidad aumentada:
-* Enlace de la aplicacion: https://codepen.io/nikobenavides/full/wvJEMxJ
+* Enlace de la aplicacion en [CodePen](https://codepen.io/nikobenavides/full/wvJEMxJ)
 # Enlace video de funcionalidad:
 * Video cargado a [YouTube](https://www.youtube.com/watch?v=CfNg-T8eu0g)
 # Recursos:
